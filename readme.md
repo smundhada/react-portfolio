@@ -12,6 +12,7 @@
 * [Questions](#Questions)
 * [Demo](#Demo)
 
+## [demo-link](https://smundhada.github.io/react-portfolio/)
 
 ## Description 
 ---
@@ -45,5 +46,3 @@ Email - shubhimundhada@gmail.com
 # Demo 
 ---
 ## [demo-link](https://smundhada.github.io/react-portfolio/)
-
-![alt text](assets/portfolio.png)
