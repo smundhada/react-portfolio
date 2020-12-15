@@ -20,12 +20,12 @@ function NavBar( props ) {
                         About </Link>
                         </li>
                         <li class="nav-item">
-                        <Link to="/ContactPage" className={location.pathname === "/ContactPage" ? "nav-link active" : "nav-link"}>
-                        Contact Me </Link>
+                        <Link to="/contact" className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}>
+                        Contact </Link>
                         </li>
                         <li class="nav-item">
-                        <Link to="/ProjectPage" className={location.pathname === "/ProjectPage" ? "nav-link active" : "nav-link"}>
-                        Project </Link>
+                        <Link to="/portfolio" className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}>
+                        Portfolio </Link>
                         </li>
                     </ul>           
             </div>
